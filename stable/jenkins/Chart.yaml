@@ -7,7 +7,7 @@ description: Open source continuous integration server. It supports multiple SCM
   projects as well as arbitrary scripts.
 sources:
 - https://github.com/jenkinsci/jenkins
-- https://github.com/jenkinsci/docker-jnlp-slave
+- https://github.com/nilesh-kanawade/docker-jnlp-slave
 maintainers:
 - name: lachie83
   email: lachlan.evenson@microsoft.com
